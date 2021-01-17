@@ -1,0 +1,60 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "jump in",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "JumpinIntent",
+          "slots": [],
+          "samples": [
+            "jumpin",
+            "Lets jumpin"
+          ]
+        },
+        {
+          "name": "RoutineIntent",
+          "slots": [],
+          "samples": [
+            "what is a good workout",
+            "can i have a routine",
+            "tell me a routine",
+            "give me a routine",
+            "give me a workout routine",
+            "give me a workout"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "4"
+}
