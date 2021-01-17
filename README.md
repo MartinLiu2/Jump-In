@@ -22,7 +22,7 @@ As a fully-freshman team with limited hacking experience, we were definitely uns
 ## Accomplishments that we're proud of
 We're proud of being able to come up with a potential solution that we deem important.
 
-## What I learned
+## What we learned
 As a team of beginner hackers (some of us never coded before), we knew that SB Hacks would be a challenge for us. Especially in the virtual setting, we learned that delegation of assignments and scheduling our time appropriately would be important. Some lessons we learned were to have strong communication throughout the hackathon as well as being able to quickly adapt to app bugs or revisions. We are also happy to note that we all learned much more about coding, designing, and marketing (when it comes to our pitch and demo video). 
 
 ## What's next for Jump In
