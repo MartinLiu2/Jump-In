@@ -9,7 +9,7 @@ Our ultimate vision is to use fitness as a medium to promote a healthier lifesty
 ## What it does
 Jump In is a social networking platform that encourages a healthy lifestyle by providing users a virtual collaborative fitness experience that is streamlined, engaging, and effective. 
 
-## How I built it
+## How we built it
 Our team implemented an engineering design process in order to build Jump In. Initially, we brainstormed ideas for an application that could be helpful during the pandemic—eventually deciding to tackle a problem personal to our own team members and many, many more—the lack of genuine communication between individuals and decreasing physical activity. 
  
 Using many concept drawings and artboard vision boards, we prototyped different design functions that would allow us to optimize the UI/UX while incorporating the software functions we deemed absolute. These concepts and artboards were then programmed into an InVision Studio Virtual Environment and eventually implemented as our Jump In prototype app (see attached links). 
